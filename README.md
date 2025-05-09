@@ -1,12 +1,3 @@
-
-## Hypefolio 🔥
-
-Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
-## Demo
-
-https://harisahmad.netlify.app
-
-
 ## Features
 
 - Easy to Setup 💯
@@ -28,7 +19,7 @@ My Linkedin: https://www.linkedin.com/in/harisahmad59
 
 Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
 
-Instagram: https://www.instagram.com/codehype_/
+Instagram: https://www.instagram.com/mr_sivabalan_official
 
 
 ## Tech Stack
@@ -40,15 +31,12 @@ Instagram: https://www.instagram.com/codehype_/
 
 ```
 # Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
+$ git clone https://github.com/Sivabalan-tech/Sivabalan-portfolio
 
 # Go into the repository
-$ cd Hypefolio
+$ cd Sivabalan-portfolio
 
 # Remove current origin repository
 $ git remote remove origin
 ```
 then open the index.html inside your favorite browser or using the live server extension. Use this source code to create your own hypefolio portfolio website.
-## Give a Star ⭐
-
-If you like this project then give it a Github star by pressing the Star button ⭐
