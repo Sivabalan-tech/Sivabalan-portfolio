@@ -16,11 +16,3 @@
 
 ## How To Use
 $ git clone https://github.com/Sivabalan-tech/Sivabalan-portfolio
-
-# Go into the repository
-
-$ cd Sivabalan-portfolio
-
-npm install
-
-npm start
