@@ -1,4 +1,4 @@
-SIVABALAN PORTFOLIO
+##SIVABALAN PORTFOLIO
          
   This is my personal developer portfolio website built using modern web technologies. It showcases my skills, projects, and contact information in a responsive and professional layout.
 ## Features
@@ -18,6 +18,9 @@ SIVABALAN PORTFOLIO
 $ git clone https://github.com/Sivabalan-tech/Sivabalan-portfolio
 
 # Go into the repository
+
 $ cd Sivabalan-portfolio
+
 npm install
+
 npm start
