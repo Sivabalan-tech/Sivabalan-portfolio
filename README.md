@@ -1,18 +1,15 @@
-## SIVABALAN PORTFOLIO
-         
-  This is my personal developer portfolio website built using modern web technologies. It showcases my skills, projects, and contact information in a responsive and professional layout.
-## Features
-- Easy to Setup 💯
-- Free to Use ( OpenSource ) 🥳
-- Multi Page 💎
-- Fully Responsive 🚀
-- Super Fast and Optimized for SEO ⚡ 
-- Dark/Light Toggle Modes 🤘
-## Tech Stack
-  Frontend: React.js, HTML, CSS, JavaScript
-  Backend: NodeJS(NodeMailer)
-  Styling: Tailwind CSS
-  Version Control: Git & GitHub
+# Sivabalan S - Portfolio
 
-## How To Use
-$ git clone https://github.com/Sivabalan-tech/Sivabalan-portfolio
+A responsive, single-page portfolio built with HTML, CSS, and vanilla JavaScript. It presents Sivabalan's software engineering experience, AI projects, education, skills, certifications, and contact information.
+
+## Run locally
+
+Open `index.html` in a browser, or serve this folder with any static file server. Swiper is bundled locally; Google Fonts and Font Awesome load from their hosted services.
+
+## Contents
+
+- Experience at Qoro Labs and Edunet Foundation
+- NeuraPulse AI and Study Buddy projects
+- Education, technical skills, and workshops
+- Downloadable latest resume at `Assets/SIVABALAN_CVs.pdf`
+- Dark mode, responsive navigation, and project carousel
